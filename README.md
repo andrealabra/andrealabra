@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MS in Data Science 
 - 🌱 I’m currently learning ANOVA, SLR, R, Data Visualization 
-- 📫 How to reach me: andrealabra21@gmail.com
+- 📫 How to reach me: andrealabra21@gmail.com 
 - ⚡ 📸
 
