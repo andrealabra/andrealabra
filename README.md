@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on MS in Data Science 
-- 🌱 I’m currently learning ANOVA, SLR, R, Data Visualization 
+- 🌱 I’m currently learning ANOVA, SLR, R, Data Visualization & Web Dev
 - 📫 How to reach me: andrealabra21@gmail.com 
 - ⚡ 📸
 
